@@ -7,7 +7,7 @@ class Test {
     fun `2 plus 2 expect 4`() {
         val first = 2
         val second = 2
-        val expected = 4
+        val expected = 6
 
         val result = first + second
 
